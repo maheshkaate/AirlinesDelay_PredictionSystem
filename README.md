@@ -1,4 +1,4 @@
-# Airlines_Delay_PredictionSystem
+# AirlinesDelay_EDA&Prediction
 
 The "Airlines Delay Predictions of Year 2000" project was a collaborative group effort assigned by Professor Namchul. The objective of the project was to analyze and predict flight delays for the year 1998 using a dataset related to airline operations. The project was structured into three main parts, each contributing to the overall goal of improving delay predictions and reducing error rates.
 
